@@ -1,1 +1,1 @@
-Adicione a pasta node_modules padrão do React na pasta Props2 para executar.
+Adicione a pasta node_modules padrão do React na pasta Props para executar.
